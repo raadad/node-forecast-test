@@ -1,0 +1,27 @@
+{
+  "name": "newscorp-forecast",
+  "version": "0.0.1",
+  "description": "Tech-test for Newscorp",
+  "main": "index.js",
+  "dependencies": {
+    "chrono-node": "^0.1.10",
+    "debug": "~0.7.4",
+    "express": "4.9.1",
+    "express-namespace": "^0.1.1",
+    "forecast.io": "0.0.9",
+    "geocoder": "^0.2.0",
+    "jade": "^1.7.0",
+    "moment": "^2.8.3",
+    "request": "^2.42.0",
+    "underscore": "^1.7.0",
+    "util": "^0.10.3"
+  },
+  "devDependencies": {
+    "should": "^4.0.4"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "author": "Ray Elsleiman",
+  "license": "ISC"
+}

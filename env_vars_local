@@ -1,0 +1,4 @@
+export NODE_ENV=dev
+export DEBUG=dev
+export FORECAST_API_KEY=5a9d60eaf27f6f3cb655d60fe98f1d2f
+

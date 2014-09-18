@@ -1,0 +1,23 @@
+IF I HAD MORE TIME:
+
+Unit tests for all functions
+Functional tests for all routes
+Proper Mocks for all tests
+
+Provide proper error handling via curried functions, to seperate error handling from concerns
+
+Handle inappropriate paramters, such as bad locations, and bad times
+
+Include JSHINT Paramaters at the top (Just moved to sublime three and linters are not setup :( )
+ 
+Models!
+
+Cleaned up package.json
+
+Made the code more durable!
+
+
+
+
+
+
